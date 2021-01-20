@@ -634,16 +634,8 @@ printf "\e[1;91m[\e[0m\e[1;92m+\e[0m\e[1;91m]\e[0m Saved:\e[0m\e[1;92m %s/\e[0m\
 menu() {
 
 printf "\n"
-printf " \e[91m[\e[0m\e[1;92m1\e[0m\e[91m]\e[0m\e[91m Unfollow\e[1;0m Tracker\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m2\e[0m\e[91m]\e[0m\e[91m Increase\e[1;0m Followers\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m3\e[0m\e[91m]\e[0m\e[91m Download\e[1;0m Stories\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m4\e[0m\e[91m]\e[0m\e[91m Download\e[1;0m Saved Posts\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m5\e[0m\e[91m]\e[0m\e[91m Download\e[1;0m Following List\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m6\e[0m\e[91m]\e[0m\e[91m Download\e[1;0m Followers List\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m7\e[0m\e[91m]\e[0m\e[91m Download\e[1;0m Profile Info\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m8\e[0m\e[91m]\e[0m\e[91m Activate\e[1;0m Unfollower\e[0m\n"
+
 printf " \e[91m[\e[0m\e[1;92m9\e[0m\e[91m]\e[0m\e[91m Subscribe\e[1;0m Noob Hackers\e[0m\n"
-printf " \e[91m[\e[0m\e[1;92m10\e[0m\e[91m]\e[0m\e[91m Updatenow\e[1;0m Autoig\e[0m\n"
 printf " \e[91m[\e[0m\e[1;92m11\e[0m\e[91m]\e[0m\e[91m Exit\e[1;0m From Script\e[0m\n"
 printf "\n"
 
